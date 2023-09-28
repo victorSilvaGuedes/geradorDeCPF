@@ -2,8 +2,6 @@
 
 ![preview](.github/geradorDeCPF.png)
 
-[Clique aqui para acessar!](https://victorsilvaguedes.github.io/geradorDeCPF/)
-
 ## ⚙ Tecnologias
 
 - HTML
